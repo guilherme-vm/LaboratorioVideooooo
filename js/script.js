@@ -13,7 +13,7 @@ $(".menu a").on("mouseleave",function(){
 
 $("#backArrow").mouseover(function () {
     console.log("testao");
-  $(this).attr('src', '/img/backArrowHover.png');
+  $(this).attr('src', '../img/backArrowHover.png');
 }).mouseout(function () {
-  $(this).attr('src', '/img/backArrow.png');
+  $(this).attr('src', '../img/backArrow.png');
 });
