@@ -6,7 +6,8 @@ if (confirm("This page contains +18 content. If you are over the age of 18, pres
 
 
 $("#backArrow").mouseover(function () {
-  $(this).attr('src', '../img/backArrowHover.png');
+    console.log("should work");
+  $(this).attr('src', 'img/backArrowHover.png');
 }).mouseout(function () {
-  $(this).attr('src', '../img/backArrow.png');
+  $(this).attr('src', 'img/backArrow.png');
 });
