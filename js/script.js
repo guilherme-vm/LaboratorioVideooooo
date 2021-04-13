@@ -12,8 +12,8 @@ $(".menu a").on("mouseleave",function(){
 
 
 $("#backArrow").mouseover(function () {
-    console.log("teste");
-  $(this).attr('src', '../img/backArrowHover.png');
+    console.log("testao");
+  $(this).attr('src', '/img/backArrowHover.png');
 }).mouseout(function () {
-  $(this).attr('src', '../img/backArrow.png');
+  $(this).attr('src', '/img/backArrow.png');
 });
