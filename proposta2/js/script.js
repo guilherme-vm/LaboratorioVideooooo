@@ -1,0 +1,1 @@
+alert("The following video has been identified by epilepsy action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised");
