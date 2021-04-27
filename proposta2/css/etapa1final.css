@@ -74,7 +74,7 @@ a:hover{
     top: 100px;
     position: fixed;
     width: 80%;
-    bottom:5%;
+    bottom:50px;
     overflow: scroll;
     text-align: center;
     left: 50%;
@@ -113,7 +113,7 @@ a:hover{
 .grad{
     position: fixed;
     left:20%;
-    bottom:5%;
+    bottom:50px;
     width: 60vw;
     height:150px;
     background: rgb(0,0,0);
