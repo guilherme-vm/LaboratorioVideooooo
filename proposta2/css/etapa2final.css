@@ -147,7 +147,8 @@ iframe{
     margin-left:65%;
     margin-top: 0px;
 position: fixed;
-    height:95vh; 
+    height:95vh;
+    overflow:scroll;
 }
 
 #mem{
